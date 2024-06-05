@@ -1,4 +1,4 @@
-owasp zap integration with githubactions
+name: owasp zap integration with githubactions
 on: [push]
 
 jobs:
