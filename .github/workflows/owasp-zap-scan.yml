@@ -1,5 +1,5 @@
 owasp zap integration with githubactions
-on:[push]
+on: [push]
 
 jobs:
   zap_scan:
